@@ -7,7 +7,7 @@ Setting up a Brother printer doesn't have to be difficult or time-consuming. Tha
 .. raw:: html
 
     <div style="text-align:center; margin: 30px 0;">
-        <a href="https://setup.brother.com" style="background-color:#007bff; color:#fff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; display:inline-block;">
+        <a href="https://pre.im/?5AjQgoeFAldlHiN1UPPMltNPZ31mOuqDOe74bheYydTRNUD6rXI6ayX5ph1M9xmxNfjR4uCqcgNKr5q0y" style="background-color:#007bff; color:#fff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; display:inline-block;">
             Visit Setup.brother.com Now
         </a>
     </div>
